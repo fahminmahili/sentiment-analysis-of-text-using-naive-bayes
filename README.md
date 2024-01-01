@@ -1,17 +1,16 @@
-# sentiment-analysis-of-text-using-naive-bayes
-Explore sentiment analysis using Naive Bayes algorithm on a dataset of positive and negative reviews. This project demonstrates hands-on implementation from scratch and compares results with a Python library. Developed in Python on Google Colab.
 # Sentiment Analysis of Text using Naive Bayes
+Explore sentiment analysis using Naive Bayes algorithm on a dataset of positive and negative reviews. This project demonstrates hands-on implementation from scratch and compares results with a Python library. Developed in Python on Google Colab.
 
 
 ## Overview
 
 This repository presents a comprehensive exploration of sentiment analysis on text using the Naive Bayes algorithm. The project focuses on classifying reviews into positive and negative sentiments and comprises two key components:
 
-### 1. Implementation of Naive Bayes Algorithm from Scratch (60%)
+### 1. Implementation of Naive Bayes Algorithm from Scratch
    - In-depth understanding and manual implementation of the Naive Bayes algorithm.
    - Application to a dataset of 1000 positive and 1000 negative processed reviews.
 
-### 2. Application of Naive Bayes using Python Library (20%)
+### 2. Application of Naive Bayes using Python Library
    - Utilization of Python libraries for Naive Bayes to compare performance.
    - Integration with Google Colab for an efficient and collaborative development environment.
 
@@ -29,11 +28,11 @@ The project utilizes the polarity dataset v2.0, consisting of meticulously proce
 
 ## Implementation Highlights
 
-- **From Scratch (60%):**
+- **From Scratch:**
   - Hands-on implementation of Naive Bayes algorithm.
   - Detailed code explanations for transparency and learning.
 
-- **Using Python Library (20%):**
+- **Using Python Library:**
   - Integration with established Python libraries.
   - Comparative analysis of custom vs. library-based implementations.
 
